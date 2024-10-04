@@ -58,3 +58,8 @@ O sistema utiliza uma lista duplamente encadeada para armazenar os produtos. Cad
 
 ## Objetivo 🎯
 O objetivo deste sistema é facilitar o gerenciamento de um estoque de produtos, proporcionando uma interface simples para usuários que desejam acompanhar e organizar seu inventário. É uma solução prática para pequenos negócios que precisam controlar seu estoque de forma eficiente.
+
+## 📇 Informações de Contato
+
+- **Nome:** Paulo Victor Bezerra Brito
+- **Nome:** Willamys Carneiro
