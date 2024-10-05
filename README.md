@@ -6,9 +6,9 @@ Este é um sistema de gerenciamento de estoque desenvolvido em C. O objetivo do 
 
 Assista à demonstração do funcionamento do programa no YouTube:
 
-[![Assista no YouTube](https://img.youtube.com/vi/SEU_VIDEO_ID/mqdefault.jpg)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![Assista no YouTube](https://youtu.be/toMHH-z09Jc)
 
-> _Clique na imagem acima para assistir ao vídeo._
+> _Clique na link acima para assistir ao vídeo._
 
 
 ## Funcionalidades ✨
