@@ -6,7 +6,7 @@ Este é um sistema de gerenciamento de estoque desenvolvido em C. O objetivo do 
 
 Assista à demonstração do funcionamento do programa no YouTube:
 
-[![Assista no YouTube](https://youtu.be/toMHH-z09Jc)
+(https://youtu.be/toMHH-z09Jc)
 
 > _Clique na link acima para assistir ao vídeo._
 
